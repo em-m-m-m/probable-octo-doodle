@@ -1,0 +1,11 @@
+com\example\logindemo\config\CorsConfig.class
+com\example\logindemo\service\StatisticsService.class
+com\example\logindemo\controller\StatisticsController.class
+com\example\logindemo\entity\UserBehavior.class
+com\example\logindemo\service\CsvImportService.class
+com\example\logindemo\config\SecurityConfig.class
+com\example\logindemo\controller\UserBehaviorController.class
+com\example\logindemo\controller\AuthController.class
+com\example\logindemo\repository\UserBehaviorRepository.class
+com\example\logindemo\LoginDemoApplication.class
+com\example\logindemo\controller\CsvImportController.class
